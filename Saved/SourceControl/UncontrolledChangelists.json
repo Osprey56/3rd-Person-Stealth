@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal/Stealth_Game/Content/TestEnvironment.umap",
+				"E:/Unreal/Stealth_Game/Content/Maps/TestEnvironment.umap",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Mapping_Player.uasset",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Input_Movment.uasset",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Input_Movement.uasset",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Input_Look.uasset",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Input_Interact.uasset",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Input_Crouch.uasset",
+				"E:/Unreal/Stealth_Game/Content/Inputs/Input_Jump.uasset",
+				"E:/Unreal/Stealth_Game/Content/Player/BP_PlayerCont.uasset",
+				"E:/Unreal/Stealth_Game/Content/Player/BP_PlayerChar.uasset",
+				"E:/Unreal/Stealth_Game/Content/Interfaces/Interface_Interact.uasset",
+				"E:/Unreal/Stealth_Game/Content/Interactables/Interact.uasset",
+				"E:/Unreal/Stealth_Game/Content/Player/BP_GameMode.uasset"
+			]
+		}
+	]
+}
